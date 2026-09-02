@@ -21,7 +21,7 @@
     "clean": "rm -rf dist"
   },
   "dependencies": {
-    "@lumen/core": "workspace:*"
+    "@lumen/core": "git+https://github.com/lumen-ts/core.git"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
